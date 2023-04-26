@@ -18,7 +18,7 @@
 - *Библиотеки:* pandas, seaborn, matplotlib, sklearn
 - *Модели:* DecisionTreeClassifier, RandomForestClassifier, LogisticRegression
 
-5) **Отток клиентов **
+5) **Отток клиентов**
 - *Задачи:* спрогнозировать, уйдёт клиент из банка в ближайшее время или нет
 - *Библиотеки:* pandas, numpy, seaborn, matplotlib, sklearn
 - *Модели:* DecisionTreeClassifier, RandomForestClassifier, LogisticRegression
