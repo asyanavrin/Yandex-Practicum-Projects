@@ -42,4 +42,11 @@
 - *Особеннности:* анализ возможной прибыли и рисков проводится с применением техники Bootstrap
 
 
+8) **Определение стоимости автомобилей**
+- *Задачи:* построить модель для определения стоимости
+- *Библиотеки:* pandas, numpy, seaborn, matplotlib, sklearn, CatBoost, LightGBM
+- *Модели:* CatBoostRegressor, LGBMRegressor, RandomForestRegressor
+- *Особеннности:* для перебора гиперапараметров применяется GridsearchCV
+
+
 
